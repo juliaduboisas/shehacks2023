@@ -1,6 +1,6 @@
 # GRUPO
 - Idian Capozzoli
-- Julia Silva
+- Júlia Silva
 - Laura Godoy
 - Xiomara Chacon
 
